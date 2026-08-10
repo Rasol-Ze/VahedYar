@@ -4,11 +4,11 @@ const APP_VERSION = params.get('v') || '1.0.0';
 const CACHE_NAME = `vahedyar-v${APP_VERSION}`;
 
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/favicon192.png',
-  '/favicon512.png'
+  './',
+  './index.html',
+  './manifest.json',
+  './favicon192.png',
+  './favicon512.png'
 ];
 
 self.addEventListener('install', (event) => {
