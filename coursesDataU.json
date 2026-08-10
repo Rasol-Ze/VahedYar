@@ -1,0 +1,8611 @@
+[
+  {
+    "courseName": "بوم شناسی پوشش های گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "حاتمی الهام",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس آزمایشگاه زیست تکوینی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012007_01"
+  },
+  {
+    "courseName": "فیزیولوژی جانوری ٢: دستگاه عصبی و غدد درون ریز",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "زارعی فاطمه",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٩",
+        "id": "یکشنبه-OddW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۶",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012043_01"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیولوژی جانوری ٢",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یوسفوند نامدار خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه فیزیولوژی جانوری",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012044_01"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیولوژی جانوری ٢",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "زارعی فاطمه خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه فیزیولوژی جانوری",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012044_02"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیولوژی جانوری ٢",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "زارعی فاطمه خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه فیزیولوژی جانوری",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012044_03"
+  },
+  {
+    "courseName": "سیستماتیک گیاهی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٨",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012052_01"
+  },
+  {
+    "courseName": "آزمایشگاه سیستماتیک گیاهی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد چقامیرزایی الهه",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه سیستماتیک گیاهی(کلاس)",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012053_01"
+  },
+  {
+    "courseName": "آزمایشگاه سیستماتیک گیاهی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد چقامیرزایی الهه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه سیستماتیک گیاهی(کلاس)",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012053_02"
+  },
+  {
+    "courseName": "آزمایشگاه سیستماتیک گیاهی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد چقامیرزایی الهه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه سیستماتیک گیاهی(کلاس)",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012053_03"
+  },
+  {
+    "courseName": "سیستماتیک گیاهی ٢",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٨",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012054_01"
+  },
+  {
+    "courseName": "آزمایشگاه سیستماتیک گیاهی ٢",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد چقامیرزایی الهه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه سیستماتیک گیاهی(کلاس)",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012055_01"
+  },
+  {
+    "courseName": "آزمایشگاه سیستماتیک گیاهی ٢",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد چقامیرزایی الهه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه سیستماتیک گیاهی(کلاس)",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012055_02"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیولوژی گیاهی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سوری زهرا آزادی چالابه پگاه",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه فیزولوژی گیاهی(کلاس)",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012061_01"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیولوژی گیاهی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سوری زهرا آزادی چالابه پگاه",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه فیزولوژی گیاهی(کلاس)",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012061_02"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیولوژی گیاهی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سوری زهرا آزادی چالابه پگاه",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه فیزولوژی گیاهی(کلاس)",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012061_03"
+  },
+  {
+    "courseName": "فیزیولوژی گیاهی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سوری زهرا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٩",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012070_01"
+  },
+  {
+    "courseName": "فیزیولوژی متالوفیتها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سوری زهرا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012134_01"
+  },
+  {
+    "courseName": "اکوفیزیولوژی گیاهی پیشرفته",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سهیلی خواه ژاله",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012135_01"
+  },
+  {
+    "courseName": "بیوانفورماتیک",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "فلاحی حسین مهدیونی سید حمید",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه سلولی",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012206_01"
+  },
+  {
+    "courseName": "آمار پیشرفته و احتمال درعلوم زیستی(پیش)",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کریمی اسحق",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012229_01"
+  },
+  {
+    "courseName": "متابولیسم گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کریمی ناصر",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012236_01"
+  },
+  {
+    "courseName": "نوروبیولوژی تکوینی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کلهری زهرا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه زیست تکوینی",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012239_01"
+  },
+  {
+    "courseName": "بیوانفورماتیک",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "مهدیونی سید حمید",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس آزمایشگاه بیوشیمی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012244_01"
+  },
+  {
+    "courseName": "بیوشیمی کربوهیدراتهاولیپیدها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سجادی مجد ثریا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه بیوشیمی",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012259_01"
+  },
+  {
+    "courseName": "بیوشیمی غشاء",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سجادی مجد ثریا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه بیوشیمی",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012262_01"
+  },
+  {
+    "courseName": "بیوسیستماتیک جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه اکولوژی",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012264_01"
+  },
+  {
+    "courseName": "گونه وگونه زائی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "رستگارپویانی نصراله",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس آزمایشگاه جانوری",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012267_01"
+  },
+  {
+    "courseName": "فیزیولوژی دستگاه عصبی مرکزی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کریمی اسحق",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012268_01"
+  },
+  {
+    "courseName": "فیزیولوژی دستگاه عصبی مرکزی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "زارعی فاطمه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012268_02"
+  },
+  {
+    "courseName": "فیزیولوژی عصب وعضله",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یوسفوند نامدار",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012283_01"
+  },
+  {
+    "courseName": "فیزیولوژی عصب وعضله",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "زارعی فاطمه",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012283_02"
+  },
+  {
+    "courseName": "نوروفیزیولوژی رفتار",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یوسفوند نامدار",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012284_01"
+  },
+  {
+    "courseName": "نوروفیزیولوژی رفتار",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یوسفوند نامدار",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012284_02"
+  },
+  {
+    "courseName": "اندام زائی مهره داران",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قارزی احمد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه زیست تکوینی",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012288_01"
+  },
+  {
+    "courseName": "فلورایران",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "حاتمی الهام",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012291_01"
+  },
+  {
+    "courseName": "بیوشیمی فیزیک پیشرفته",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قبادی سیروس",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه بیوشیمی",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012295_01"
+  },
+  {
+    "courseName": "بیو فیزیک سلولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قبادی سیروس",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس آزمایشگاه بیوشیمی",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012299_01"
+  },
+  {
+    "courseName": "بیوانفورماتیک",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "فلاحی حسین مهدیونی سید حمید",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "",
+        "id": "سه‌شنبه-OddW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه سلولی",
+        "id": "سه‌شنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012306_01"
+  },
+  {
+    "courseName": "زیست شناسی انگل ها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اکملی وحید",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۶",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012310_01"
+  },
+  {
+    "courseName": "مهارتی تخصصی١ زیست -ایمنی زیستی",
+    "unit": 0,
+    "courseType": "",
+    "professorName": "چهری خسرو",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۶",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012313_01"
+  },
+  {
+    "courseName": "مکانیسمهای سلولی و ملکولی تکوین",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قارزی احمد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس آزمایشگاه زیست تکوینی",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012324_01"
+  },
+  {
+    "courseName": "تاکسونومی بی مهرگان و مهره داران",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "کرمیانی رسول",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس آزمایشگاه جانوری",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012346_01"
+  },
+  {
+    "courseName": "آزمایشگاه میکروبیولوژی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "تاران مجتبی جمشیدبیگی رضا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه میکروبیولوژی",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "19:00 تا 21:00",
+      "examLocation": ""
+    },
+    "id": "2012355_01"
+  },
+  {
+    "courseName": "آزمایشگاه میکروبیولوژی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "تاران مجتبی جمشیدبیگی رضا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه میکروبیولوژی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "19:00 تا 21:00",
+      "examLocation": ""
+    },
+    "id": "2012355_02"
+  },
+  {
+    "courseName": "بیوشیمی فیزیک",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "مهدیونی سید حمید",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۶",
+        "id": "یکشنبه-EvenW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠١",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012373_01"
+  },
+  {
+    "courseName": "فیزیولوژی میکروارگانیسم ها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "تاران مجتبی",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012377_01"
+  },
+  {
+    "courseName": "بیوشیمی متابولیسم",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "قبادی سیروس",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس ٧",
+        "id": "یکشنبه-EvenW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٧",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس ٧",
+        "id": "یکشنبه-OddW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012378_01"
+  },
+  {
+    "courseName": "بیوشیمی متابولیسم",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "مهرابی مریم",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ۶",
+        "id": "سه‌شنبه-EvenW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۶",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ۶",
+        "id": "سه‌شنبه-OddW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012378_02"
+  },
+  {
+    "courseName": "بیوشیمی متابولیسم",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "سجادی مجد ثریا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ٧",
+        "id": "چهارشنبه-OddW-2"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ٧",
+        "id": "چهارشنبه-EvenW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٧",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012378_03"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی متابولیسم",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "مهرابی مریم عسکری سودابه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012379_01"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی متابولیسم",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "عسکری سودابه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "دوشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012379_02"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی متابولیسم",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "عسکری سودابه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012379_03"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی متابولیسم",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سجادی مجد ثریا عسکری سودابه",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012379_04"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی متابولیسم",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "عسکری سودابه",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012379_06"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی متابولیسم",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "عسکری سودابه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012379_07"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی متابولیسم",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "عسکری سودابه",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012379_08"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی متابولیسم",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "عسکری سودابه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012379_09"
+  },
+  {
+    "courseName": "آزمایشگاه جانورشناسی مهره داران",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کرمیانی رسول خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه جانوری",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012397_01"
+  },
+  {
+    "courseName": "آزمایشگاه جانورشناسی مهره داران",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کرمیانی رسول خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه جانوری",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012397_02"
+  },
+  {
+    "courseName": "سیستماتیک گیاهی ٣",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٩",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012412_01"
+  },
+  {
+    "courseName": "آزمایشگاه سیستماتیک گیاهی ٣",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد چقامیرزایی الهه",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه سیستماتیک گیاهی(کلاس)",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012413_01"
+  },
+  {
+    "courseName": "آزمایشگاه سیستماتیک گیاهی ٣",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "معصومی سیدمحمد چقامیرزایی الهه",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه سیستماتیک گیاهی(کلاس)",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012413_02"
+  },
+  {
+    "courseName": "جلبک شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٨",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012415_01"
+  },
+  {
+    "courseName": "آزمایشگاه جلبک شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو فتاحی ده پهنی مژگان",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه قارچ شناسی",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012416_01"
+  },
+  {
+    "courseName": "آزمایشگاه جلبک شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو فتاحی ده پهنی مژگان",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه قارچ شناسی",
+        "id": "دوشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012416_02"
+  },
+  {
+    "courseName": "آزمایشگاه جلبک شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو فتاحی ده پهنی مژگان",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه قارچ شناسی",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012416_03"
+  },
+  {
+    "courseName": "آزمایشگاه جلبک شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو فتاحی ده پهنی مژگان",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه قارچ شناسی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012416_04"
+  },
+  {
+    "courseName": "بافت شناسی جانوری",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "کلهری زهرا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ٧",
+        "id": "چهارشنبه-EvenW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٧",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012445_01"
+  },
+  {
+    "courseName": "تشریح مقایسه ای مهره داران",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اکملی وحید",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس آزمایشگاه اکولوژی",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012508_01"
+  },
+  {
+    "courseName": "بیوشیمی هورمونها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "مهرابی مریم",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه بیوشیمی",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012518_01"
+  },
+  {
+    "courseName": "ژنتیک تکوینی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قارزی احمد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه زیست تکوینی",
+        "id": "شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012528_01"
+  },
+  {
+    "courseName": "کامپیوتر ومحاسبات زیستی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "مرادی بیتا کریمی اسحق",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "دوشنبه-OddW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "دوشنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012576_01"
+  },
+  {
+    "courseName": "کامپیوتر ومحاسبات زیستی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "حاتمی الهام مرادی بیتا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "دوشنبه-OddW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "دوشنبه-EvenW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012576_02"
+  },
+  {
+    "courseName": "مبانی میکروبیولوژی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "تاران مجتبی",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۶",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012581_01"
+  },
+  {
+    "courseName": "خزنده و پرنده شناسی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "رستگارپویانی نصراله",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس آزمایشگاه جانوری",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012588_01"
+  },
+  {
+    "courseName": "فیزیولوژی غشاء",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یوسفوند نامدار",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "",
+        "id": "چهارشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012597_01"
+  },
+  {
+    "courseName": "روش هاو ابزارها در سیستماتیک گیاهی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "حاتمی الهام",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012607_01"
+  },
+  {
+    "courseName": "رشدو نمو گیاهی پیشرفته",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کریمی ناصر",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012619_01"
+  },
+  {
+    "courseName": "سازو کارهای سلولی و مولکولی سرطان",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سی سخت نژاد سجاد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012623_01"
+  },
+  {
+    "courseName": "روش ها در بیوسیستماتیک",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اکملی وحید",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه اکولوژی",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "18:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012632_01"
+  },
+  {
+    "courseName": "رده بندیهای معاصر جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "رستگارپویانی نصراله",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس آزمایشگاه جانوری",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012633_01"
+  },
+  {
+    "courseName": "تنوع زیستی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه اکولوژی",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012635_01"
+  },
+  {
+    "courseName": "زیست شناسی تکوینی - تکاملی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قارزی احمد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه زیست تکوینی",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012636_01"
+  },
+  {
+    "courseName": "فرایندهای تنظیمی و ترارسانی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "فلاحی حسین",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه سلولی",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012638_01"
+  },
+  {
+    "courseName": "اتصالات سلولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "بیدمشکی پور علی",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس آزمایشگاه سلولی",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012640_01"
+  },
+  {
+    "courseName": "زیست شناسی RNA",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سی سخت نژاد سجاد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه سلولی",
+        "id": "شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012658_01"
+  },
+  {
+    "courseName": "بیوانفورماتیک پیشرفته",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "فلاحی حسین",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس آزمایشگاه سلولی",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012666_01"
+  },
+  {
+    "courseName": "مباحث جدید در زیست شناسی سلولی و مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "بیدمشکی پور علی",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس آزمایشگاه سلولی",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012668_01"
+  },
+  {
+    "courseName": "بیوشیمی ساختار",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "سجادی مجد ثریا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۶",
+        "id": "چهارشنبه-OddW-3"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٨",
+        "id": "یکشنبه-EveryW-3"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۶",
+        "id": "چهارشنبه-EvenW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012680_01"
+  },
+  {
+    "courseName": "آزمایشگاه بیوشیمی ساختار",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قبادی سیروس",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه بیوشیمی",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012681_01"
+  },
+  {
+    "courseName": "ژنتیک مولکولی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "درخشان سارا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۶",
+        "id": "سه‌شنبه-EvenW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٩",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012682_01"
+  },
+  {
+    "courseName": "ژنتیک مولکولی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "درخشان سارا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۶",
+        "id": "سه‌شنبه-OddW-3"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012682_02"
+  },
+  {
+    "courseName": "ژنتیک مولکولی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "فلاحی حسین",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ٨",
+        "id": "سه‌شنبه-OddW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٧",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012682_03"
+  },
+  {
+    "courseName": "آزمایشگاه ژنتیک مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات درخشان سارا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012683_01"
+  },
+  {
+    "courseName": "آزمایشگاه ژنتیک مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012683_02"
+  },
+  {
+    "courseName": "آزمایشگاه ژنتیک مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات درخشان سارا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012683_03"
+  },
+  {
+    "courseName": "آزمایشگاه ژنتیک مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات درخشان سارا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012683_04"
+  },
+  {
+    "courseName": "آزمایشگاه ژنتیک مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات درخشان سارا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012683_05"
+  },
+  {
+    "courseName": "آزمایشگاه ژنتیک مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات درخشان سارا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012683_06"
+  },
+  {
+    "courseName": "آزمایشگاه ژنتیک مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012683_07"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی جانور شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کرمیانی رسول خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه جانوری",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012685_01"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی جانور شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کرمیانی رسول خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه جانوری",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012685_02"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی جانور شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قنبری نیا نرگس خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه جانوری",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012685_03"
+  },
+  {
+    "courseName": "مبانی فیزیولوژی جانوری",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "قوسی مهناز",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ٨",
+        "id": "سه‌شنبه-EvenW-3"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠١",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012686_01"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی فیزیولوژی جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قوسی مهناز خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه فیزیولوژی جانوری",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012687_01"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی فیزیولوژی جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قوسی مهناز خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه فیزیولوژی جانوری",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012687_02"
+  },
+  {
+    "courseName": "زیست شناسی میکروبی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "چهری خسرو تاران مجتبی",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ٨",
+        "id": "دوشنبه-OddW-3"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012688_01"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی میکروبی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "تاران مجتبی جمشیدبیگی رضا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه میکروبیولوژی",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012689_01"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی میکروبی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "تاران مجتبی جمشیدبیگی رضا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه میکروبیولوژی",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012689_02"
+  },
+  {
+    "courseName": "مبانی فیزیولوژی گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سوری زهرا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012692_01"
+  },
+  {
+    "courseName": "مبانی فیزیولوژی گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سهیلی خواه ژاله",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠١",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012692_02"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی فیزیولوژی گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سهیلی خواه ژاله شریفی فرانک",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه فیزولوژی گیاهی(کلاس)",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012693_01"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی فیزیولوژی گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سهیلی خواه ژاله شریفی فرانک",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه فیزولوژی گیاهی(کلاس)",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012693_02"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی فیزیولوژی گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سهیلی خواه ژاله شریفی فرانک",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه فیزولوژی گیاهی(کلاس)",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012693_03"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی فیزیولوژی گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سهیلی خواه ژاله شریفی فرانک",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه فیزولوژی گیاهی(کلاس)",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012693_04"
+  },
+  {
+    "courseName": "تکامل موجودات زنده",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس ٧",
+        "id": "چهارشنبه-EvenW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012694_01"
+  },
+  {
+    "courseName": "تکامل موجودات زنده",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "کرمیانی رسول",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس ٧",
+        "id": "یکشنبه-EvenW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٧",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012694_02"
+  },
+  {
+    "courseName": "آمار زیستی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "شرفی مریم",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٧",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012697_01"
+  },
+  {
+    "courseName": "کارگاه آمار زیستی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "صابری زانیانی فهیمه",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-OddW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012698_01"
+  },
+  {
+    "courseName": "کارگاه آمار زیستی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "صابری زانیانی فهیمه",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012698_02"
+  },
+  {
+    "courseName": "زیست شناسی سلولی و مولکولی ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "درخشان سارا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ٨",
+        "id": "سه‌شنبه-EvenW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ۶",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012699_01"
+  },
+  {
+    "courseName": "آز زیست شناسی سلولی و مولکولی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012700_01"
+  },
+  {
+    "courseName": "آز زیست شناسی سلولی و مولکولی ١",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات درخشان سارا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "چهارشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012700_02"
+  },
+  {
+    "courseName": "مبانی مهندسی ژنتیک",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "فلاحی حسین",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012703_01"
+  },
+  {
+    "courseName": "مبانی بیوانفورماتیک",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "مهدیونی سید حمید",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012705_01"
+  },
+  {
+    "courseName": "متون تخصصی زیست شناسی سلولی و مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قبادی سیروس",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۶",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012707_01"
+  },
+  {
+    "courseName": "مبانی اپی ژنتیک",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "فلاحی حسین",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۶",
+        "id": "شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012721_01"
+  },
+  {
+    "courseName": "فیزیولوژی سلول",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قوسی مهناز",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٨",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012723_01"
+  },
+  {
+    "courseName": "جانورشناسی مهره داران",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کرمیانی رسول",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012727_01"
+  },
+  {
+    "courseName": "حشره شناسی",
+    "unit": 1,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠١",
+        "id": "شنبه-OddW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012728_01"
+  },
+  {
+    "courseName": "آزمایشگاه حشره شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه بهزادی شیما",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012729_01"
+  },
+  {
+    "courseName": "آزمایشگاه حشره شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه بهزادی شیما",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012729_02"
+  },
+  {
+    "courseName": "آزمایشگاه حشره شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه بهزادی شیما",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012729_03"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی انگل ها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اکملی وحید خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012730_01"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی انگل ها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اکملی وحید خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012730_02"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی انگل ها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اکملی وحید خزاعی نسیم",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012730_03"
+  },
+  {
+    "courseName": "جنین شناسی جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کلهری زهرا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012731_01"
+  },
+  {
+    "courseName": "آزمایشگاه جنین شناسی جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کلهری زهرا پورمرادی مهسا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه زیست تکوینی",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012732_01"
+  },
+  {
+    "courseName": "آزمایشگاه جنین شناسی جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کلهری زهرا پورمرادی مهسا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه زیست تکوینی",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012732_02"
+  },
+  {
+    "courseName": "مبانی زیست فناوری جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کریمی اسحق حیدری زهره",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٧",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012734_01"
+  },
+  {
+    "courseName": "مبانی زیست شناسی سلولی و مولکولی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "سی سخت نژاد سجاد",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس ٧",
+        "id": "چهارشنبه-OddW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٨",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012735_01"
+  },
+  {
+    "courseName": "مبانی زیست شناسی سلولی و مولکولی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "سی سخت نژاد سجاد",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ٧",
+        "id": "سه‌شنبه-OddW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٧",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012735_02"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی سلولی و مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012736_01"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی سلولی و مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012736_02"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی سلولی و مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012736_03"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی سلولی و مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012736_04"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی سلولی و مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012736_05"
+  },
+  {
+    "courseName": "آزمایشگاه زیست شناسی سلولی و مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "یادگاری زهرا السادات",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه سلولی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012736_06"
+  },
+  {
+    "courseName": "متون تخصصی زیست شناسی جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کریمی اسحق",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012737_01"
+  },
+  {
+    "courseName": "فیزیولوژی ورزش",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قوسی مهناز",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ۶",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012739_01"
+  },
+  {
+    "courseName": "اصول تنوع زیستی و زیست شناسی حفاظت",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٩",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012747_01"
+  },
+  {
+    "courseName": "تمایز سلول های جانوری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کلهری زهرا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠١",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012749_01"
+  },
+  {
+    "courseName": "فیزیولوژی گیاهی ٣",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کریمی ناصر",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۶",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012753_01"
+  },
+  {
+    "courseName": "گیاهان دارویی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "حاتمی الهام",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٨",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012760_01"
+  },
+  {
+    "courseName": "مبانی زیست فناوری گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کریمی ناصر",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012769_01"
+  },
+  {
+    "courseName": "گیاهان آبزی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چقامیرزایی الهه",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٨",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012771_01"
+  },
+  {
+    "courseName": "مبانی اکوفیزیولوژی گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سوری زهرا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠١",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012776_01"
+  },
+  {
+    "courseName": "روشهای بیوشیمی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قبادی سیروس",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه بیوشیمی",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012817_01"
+  },
+  {
+    "courseName": "مدل سازی مولکولی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "مهدیونی سید حمید",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس آزمایشگاه سلولی",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012822_01"
+  },
+  {
+    "courseName": "پروتئین ها در سلامت و بیماری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "مهرابی مریم",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012833_01"
+  },
+  {
+    "courseName": "رده بندی میکرو ارگانیسم ها",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ارشد ٢ گروه زیست",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012839_01"
+  },
+  {
+    "courseName": "زیست فناوری میکروبی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012843_01"
+  },
+  {
+    "courseName": "زیست فناوری و تخمیر قارچی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012846_01"
+  },
+  {
+    "courseName": "زیست فناوری صنعتی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "تاران مجتبی",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "دوشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012847_01"
+  },
+  {
+    "courseName": "توسعه سویه های صنعتی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "چهری خسرو",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ارشد زیست شناسی",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012848_01"
+  },
+  {
+    "courseName": "مبانی جانورشناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کرمیانی رسول",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2012862_01"
+  },
+  {
+    "courseName": "ریخت شناسی گیاهی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "حاتمی الهام",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٨",
+        "id": "شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012863_01"
+  },
+  {
+    "courseName": "مبانی فناوری سلول های بنیادی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سی سخت نژاد سجاد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٧",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2012886_01"
+  },
+  {
+    "courseName": "مبانی بوم شناسی (نظری)",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٧",
+        "id": "شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012895_01"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی بوم شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اکملی وحید رشیدی ایل ذوله رضیه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012896_01"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی بوم شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اکملی وحید رشیدی ایل ذوله رضیه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012896_02"
+  },
+  {
+    "courseName": "آزمایشگاه مبانی بوم شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اسمعیلی رینه سمیه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه اکولوژی",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012896_03"
+  },
+  {
+    "courseName": "زیست شناسی سلولی و مولکولی ٣",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "درخشان سارا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠١",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012917_01"
+  },
+  {
+    "courseName": "مبانی برنامه نویسی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ایزدی سعادت",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "یکشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "17:00 تا 19:00",
+      "examLocation": ""
+    },
+    "id": "2012918_01"
+  },
+  {
+    "courseName": "کاربینی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "کرمیانی رسول قوسی مهناز",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٧",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012951_01"
+  },
+  {
+    "courseName": "کاربینی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "درخشان سارا سجادی مجد ثریا عسکری سودابه کلهری زهرا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2012951_02"
+  },
+  {
+    "courseName": "کاربینی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "سوری زهرا معصومی سیدمحمد",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٨",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2012951_03"
+  },
+  {
+    "courseName": "نظریه محاسبه",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "زرین قلم امیر",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "سه‌شنبه-EvenW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "سه‌شنبه-OddW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016013_01"
+  },
+  {
+    "courseName": "اصول سیستمهای کامپیوتری",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "زرین قلم امیر اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016015_01"
+  },
+  {
+    "courseName": "مبانی کامپیوتر و برنامه سازی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "سیاه کمری فرهاد",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "سه‌شنبه-EvenW-4"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016020_01"
+  },
+  {
+    "courseName": "نظریه گراف و کاربردهای آن",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "امینی کیوان",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "شنبه-EveryW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016064_01"
+  },
+  {
+    "courseName": "توپولوژی عمومی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "ابوالقاسمی محمد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2016066_01"
+  },
+  {
+    "courseName": "جبر پیشرفته",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "عدالت زاده بهروز",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٢",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٢",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016178_01"
+  },
+  {
+    "courseName": "جبر پیشرفته",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "رحیمی احد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٨",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٨",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016178_02"
+  },
+  {
+    "courseName": "روشهای عددی درجبرخطی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "براتی علی",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "دوشنبه-EveryW-3"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016189_01"
+  },
+  {
+    "courseName": "نظریه مدول",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "طلوعی یاسر",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "شنبه-EveryW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016193_01"
+  },
+  {
+    "courseName": "مباحث ویژه درآنالیزغیرخطی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "فرج زاده علی",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آمفی تئاتر ریاضی",
+        "id": "یکشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آمفی تئاتر ریاضی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016209_01"
+  },
+  {
+    "courseName": "مباحث ویژه درآنالیزهارمونیک",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "ابوالقاسمی محمد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آمفی تئاتر ریاضی",
+        "id": "شنبه-EveryW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آمفی تئاتر ریاضی",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016210_01"
+  },
+  {
+    "courseName": "مبانی جبر",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "عدالت زاده بهروز اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "شنبه-EvenW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "دوشنبه-EveryW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "شنبه-OddW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016227_01"
+  },
+  {
+    "courseName": "معادلات دیفرانسیل با مشتقات جزئی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "جلیلیان یعقوب",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "چهارشنبه-EvenW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "دوشنبه-EveryW-3"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "چهارشنبه-OddW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016238_01"
+  },
+  {
+    "courseName": "بهینه سازی چندهدفه",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "پور کریمی لطیف",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٢",
+        "id": "یکشنبه-EveryW-3"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٢",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016245_01"
+  },
+  {
+    "courseName": "مبانی منطق و نظریه مجموعه ها",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "نیشابوری پگاه",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ١",
+        "id": "سه‌شنبه-EvenW-3"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "یکشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ١",
+        "id": "سه‌شنبه-OddW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016255_01"
+  },
+  {
+    "courseName": "نظریه جبری گراف(دکتری)",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "شاویسی فرزاد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٢",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٢",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016281_01"
+  },
+  {
+    "courseName": "نظریه گراف پیشرفته",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "شاویسی فرزاد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٢",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٢",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016310_01"
+  },
+  {
+    "courseName": "اصول سیستم های کامپیوتری",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "زرین قلم امیر",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-EvenW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-OddW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016312_01"
+  },
+  {
+    "courseName": "زبان تخصصی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "طلوعی یاسر",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "",
+        "id": "سه‌شنبه-EvenW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016329_01"
+  },
+  {
+    "courseName": "الگوریتمهای پیشرفته",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "جلیلیان رضا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٢",
+        "id": "یکشنبه-EveryW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٢",
+        "id": "چهارشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016423_01"
+  },
+  {
+    "courseName": "هوش مصنوعی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "پارسایی مجد لیلا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "دوشنبه-EvenW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "شنبه-EveryW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "دوشنبه-OddW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016429_01"
+  },
+  {
+    "courseName": "حل عددی معادلات دیفرانسیل و انتگرلا کسری",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "حقیقی امیر",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آمفی تئاتر ریاضی",
+        "id": "دوشنبه-EveryW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "چهارشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016437_01"
+  },
+  {
+    "courseName": "مبانی ریاضی مقدماتی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "رحیمی احد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016441_01"
+  },
+  {
+    "courseName": "آزمایشگاه ریاضی -٢",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "طلوعی یاسر",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "یکشنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "15:30 تا 17:30",
+      "examLocation": ""
+    },
+    "id": "2016443_01"
+  },
+  {
+    "courseName": "آزمایشگاه ریاضی -٢",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "طلوعی یاسر",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "یکشنبه-OddW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "15:30 تا 17:30",
+      "examLocation": ""
+    },
+    "id": "2016443_02"
+  },
+  {
+    "courseName": "آمار و احتمالات مقدماتی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اسمعیل زاده نبز",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "چهارشنبه-EvenW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "دوشنبه-EveryW-2"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "چهارشنبه-OddW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016444_01"
+  },
+  {
+    "courseName": "آمار و احتمالات مقدماتی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "سعادت کیا قباد",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس ۵",
+        "id": "چهارشنبه-EvenW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "دوشنبه-EveryW-3"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس ۵",
+        "id": "چهارشنبه-OddW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016444_02"
+  },
+  {
+    "courseName": "مبانی ماتریس ها و جبر خطی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "عدالت زاده بهروز",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016445_01"
+  },
+  {
+    "courseName": "مبانی علوم ریاضی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "رحیمی احد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۵",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۵",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016446_01"
+  },
+  {
+    "courseName": "مبانی علوم ریاضی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "جوانشیری قاسم آبادی حسین",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016446_02"
+  },
+  {
+    "courseName": "مبانی آنالیز ریاضی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "قویدل سیده مرضیه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۵",
+        "id": "شنبه-EveryW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "دوشنبه-EveryW-1"
+      },
+      {
+        "day": "شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "شنبه-EvenW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016447_01"
+  },
+  {
+    "courseName": "مبانی آنالیز عددی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "حقیقی امیر",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "دوشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2016448_01"
+  },
+  {
+    "courseName": "مبانی جبر",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "عدالت زاده بهروز",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016449_01"
+  },
+  {
+    "courseName": "تحقیق در عملیات",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "پور کریمی لطیف",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2016452_01"
+  },
+  {
+    "courseName": "مبانی ترکیبیات",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "شاویسی فرزاد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "شنبه-EveryW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016454_01"
+  },
+  {
+    "courseName": "نرم افزارهای ریاضی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "جلیلیان رضا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-EvenW-3"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "یکشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-OddW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2016460_01"
+  },
+  {
+    "courseName": "ساختمان داده ها و الگوریتم ها",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ترکاشوند فاطمه",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ۵",
+        "id": "چهارشنبه-EvenW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "دوشنبه-EveryW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ۵",
+        "id": "چهارشنبه-OddW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016461_01"
+  },
+  {
+    "courseName": "حل عددی معادلات دیفرانسیل",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "جلیلیان رضا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ۵",
+        "id": "یکشنبه-EvenW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-EveryW-4"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ۵",
+        "id": "یکشنبه-OddW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016462_01"
+  },
+  {
+    "courseName": "احتمال ١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "شرفی مریم",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016469_01"
+  },
+  {
+    "courseName": "نظریه معادلات دیفرانسیل عادی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "نیامرادی نعمت اله",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ٢",
+        "id": "دوشنبه-EvenW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٢",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ٢",
+        "id": "دوشنبه-OddW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2016472_01"
+  },
+  {
+    "courseName": "نظریه گراف",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "امینی کیوان اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "یکشنبه-OddW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "شنبه-EveryW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۵",
+        "id": "یکشنبه-EvenW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016475_01"
+  },
+  {
+    "courseName": "زبان تخصصی ریاضی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "طلوعی یاسر اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016479_01"
+  },
+  {
+    "courseName": "مهارت تخصصی١ -ریاضی -ریاضی نگاری",
+    "unit": 0,
+    "courseType": "",
+    "professorName": "جوانشیری قاسم آبادی حسین",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "15:30 تا 17:30",
+      "examLocation": ""
+    },
+    "id": "2016488_01"
+  },
+  {
+    "courseName": "برنامه سازی پیشرفته",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "پارسایی مجد لیلا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "یکشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2016490_01"
+  },
+  {
+    "courseName": "زبان ماشین واسمبلی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "زرین قلم امیر",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "دوشنبه-EvenW-1"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "شنبه-EveryW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "دوشنبه-OddW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016492_01"
+  },
+  {
+    "courseName": "محاسبات علمی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "جلیلیان رضا",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016493_01"
+  },
+  {
+    "courseName": "داده کاوی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "پارسایی مجد لیلا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "یکشنبه-EvenW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "سه‌شنبه-EveryW-4"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "یکشنبه-OddW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2016495_01"
+  },
+  {
+    "courseName": "پروژه",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اساتید گروه آموزشی",
+    "sessions": [],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2016496_01"
+  },
+  {
+    "courseName": "ریاضیات عمومی٣",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "حقیقی امیر",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-EvenW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "شنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-OddW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016522_01"
+  },
+  {
+    "courseName": "جبر خطی عددی پیشرفته",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "براتی علی اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "دوشنبه-EveryW-3"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016523_01"
+  },
+  {
+    "courseName": "معادلات دیفرانسیل عادی ١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "جلیلیان یعقوب",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "یکشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016542_01"
+  },
+  {
+    "courseName": "مباحث ویژه در دستگهاهای دینامیکی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "نیامرادی نعمت اله",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "یکشنبه-EveryW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "اتاق شورای ریاضی",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2016548_01"
+  },
+  {
+    "courseName": "مباحثی در علوم کامپیوتر٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "پارسایی مجد لیلا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ١",
+        "id": "دوشنبه-EvenW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ١",
+        "id": "دوشنبه-OddW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2016559_01"
+  },
+  {
+    "courseName": "ریاضیات عمومی ١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "فرج زاده علی",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ١",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ١",
+        "id": "دوشنبه-EveryW-2"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ١",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016901_02"
+  },
+  {
+    "courseName": "ریاضیات عمومی ٢",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "ابوالقاسمی محمد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "شنبه-EveryW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "دوشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016902_01"
+  },
+  {
+    "courseName": "ریاضیات عمومی ٢",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "پور کریمی لطیف",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "دوشنبه-EveryW-2"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۵",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016902_02"
+  },
+  {
+    "courseName": "ریاضیات عمومی ٢",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "جوانشیری قاسم آبادی حسین",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "دوشنبه-EveryW-2"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٧",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2016902_03"
+  },
+  {
+    "courseName": "ریاضی٣",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "حقیقی امیر اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٢",
+        "id": "شنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۵",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2016942_01"
+  },
+  {
+    "courseName": "زبان تخصصی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "هاشمی سیدرضا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "چهارشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020047_01"
+  },
+  {
+    "courseName": "استنباط آماری٢",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اسمعیل زاده نبز",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "یکشنبه-EveryW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "اتاق سمینار آمار",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2020067_01"
+  },
+  {
+    "courseName": "تحلیل بقا",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "هاشمی سیدرضا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "اتاق سمینار آمار",
+        "id": "دوشنبه-EveryW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "اتاق سمینار آمار",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2020069_01"
+  },
+  {
+    "courseName": "تحلیل داده های طولی ١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "هاشمی سیدرضا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "دوشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2020080_01"
+  },
+  {
+    "courseName": "داده کاوی پیشرفته",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "نیاپرست مهرداد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "اتاق سمینار آمار",
+        "id": "شنبه-EveryW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "اتاق سمینار آمار",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2020081_01"
+  },
+  {
+    "courseName": "احتمال ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "الماسی اسحاق",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "سه‌شنبه-OddW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "سه‌شنبه-EvenW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020082_01"
+  },
+  {
+    "courseName": "طرح آزمایش های پیشرفته",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "جعفری حبیب",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "اتاق سمینار آمار",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٢",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2020086_01"
+  },
+  {
+    "courseName": "روشهای آماری",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ایزدی محی الدین",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس ۴",
+        "id": "سه‌شنبه-OddW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۴",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس ۴",
+        "id": "سه‌شنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020091_01"
+  },
+  {
+    "courseName": "احتمال ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "نیاپرست مهرداد",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-EvenW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-OddW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020092_01"
+  },
+  {
+    "courseName": "رگرسیون ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اسمعیل زاده نبز اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-OddW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-EveryW-1"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020145_01"
+  },
+  {
+    "courseName": "طرح آزمایشهای ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "جعفری حبیب",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "یکشنبه-EvenW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020146_01"
+  },
+  {
+    "courseName": "روشهای چند متغیره ی پیوسته ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ایزدی محی الدین",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "دوشنبه-EvenW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020149_01"
+  },
+  {
+    "courseName": "رگرسیون ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "الماسی اسحاق",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "دوشنبه-OddW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020159_01"
+  },
+  {
+    "courseName": "آمار بیزی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "الماسی اسحاق",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "یکشنبه-OddW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "چهارشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020164_01"
+  },
+  {
+    "courseName": "مبانی ریاضیات",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "فرج زاده علی اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "دوشنبه-EvenW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020180_01"
+  },
+  {
+    "courseName": "آنالیزریاضی ١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "ابوالقاسمی محمد",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-OddW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-EvenW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020185_01"
+  },
+  {
+    "courseName": "احتمال ٢",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "نیاپرست مهرداد اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020186_01"
+  },
+  {
+    "courseName": "آمار ریاضی ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "خزائی سلیمان اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-EvenW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "شنبه-EveryW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-OddW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020188_01"
+  },
+  {
+    "courseName": "فرایندهای تصادفی ١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "هاشمی سیدرضا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "یکشنبه-EveryW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020189_01"
+  },
+  {
+    "courseName": "روش های نمونه گیری ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "مرادی محمد اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "سه‌شنبه-OddW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "سه‌شنبه-EvenW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020190_01"
+  },
+  {
+    "courseName": "آمار ریاضی ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "شرفی مریم",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "سه‌شنبه-EvenW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "سه‌شنبه-OddW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020191_01"
+  },
+  {
+    "courseName": "روشهای چند متغیره ی گسسته ١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "خزائی سلیمان",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020194_01"
+  },
+  {
+    "courseName": "محاسبات آماری",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "مرادی محمد",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-OddW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "دوشنبه-EveryW-3"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-EvenW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020196_01"
+  },
+  {
+    "courseName": "روش تحقیق و مشاوره ی آماری",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "خزائی سلیمان",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020197_01"
+  },
+  {
+    "courseName": "پروژه",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اساتید گروه آموزشی",
+    "sessions": [],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2020198_01"
+  },
+  {
+    "courseName": "تحلیل بقا",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "هاشمی سیدرضا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "سه‌شنبه-EvenW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020205_01"
+  },
+  {
+    "courseName": "ساختمان داده ها و الگوریتم ها",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ترکاشوند فاطمه",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "یکشنبه-OddW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "سه‌شنبه-EveryW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "یکشنبه-EvenW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020222_01"
+  },
+  {
+    "courseName": "مبانی ریاضی مقدماتی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "فرج زاده علی",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "دوشنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020301_01"
+  },
+  {
+    "courseName": "برنامه نویسی با نرم افزار R",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ایزدی محی الدین",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "شنبه-EvenW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020302_01"
+  },
+  {
+    "courseName": "نظریه آمار١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "خزائی سلیمان",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-EvenW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ۴",
+        "id": "شنبه-EveryW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-OddW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020308_01"
+  },
+  {
+    "courseName": "رگرسیون١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اسمعیل زاده نبز",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-EveryW-1"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020312_01"
+  },
+  {
+    "courseName": "روشهای نمونه گیری",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "مرادی محمد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020314_01"
+  },
+  {
+    "courseName": "آنالیز ریاضی١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ابوالقاسمی محمد",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-OddW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ۴",
+        "id": "دوشنبه-EvenW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2020320_01"
+  },
+  {
+    "courseName": "مبانی علم داده ها",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "مرادی محمد",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "سه‌شنبه-OddW-3"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "یکشنبه-EveryW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "سه‌شنبه-EvenW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2020336_01"
+  },
+  {
+    "courseName": "نظریه های جمعیت شناسی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "احمدی وکیل",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2020357_01"
+  },
+  {
+    "courseName": "شاخص های اجتماعی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "احمدی وکیل",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2020358_01"
+  },
+  {
+    "courseName": "تحلیل داده های طولی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "هاشمی سیدرضا اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "دوشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٢",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2020364_01"
+  },
+  {
+    "courseName": "الکترومغناطیس ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "رابعی اردشیر",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس ٣",
+        "id": "چهارشنبه-EvenW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "سه‌شنبه-EveryW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022023_01"
+  },
+  {
+    "courseName": "الکترومغناطیس ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ناصری طیبه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس ٣",
+        "id": "شنبه-OddW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "سه‌شنبه-EveryW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ١",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022046_01"
+  },
+  {
+    "courseName": "ریاضی فیزیک ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "دهقانی کاظمی محسن",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس ٣",
+        "id": "سه‌شنبه-OddW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٣",
+        "id": "چهارشنبه-EveryW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ١",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:30 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022065_01"
+  },
+  {
+    "courseName": "فیزیک حالت جامد١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "رضانیا حامد",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "دوشنبه-EvenW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2022072_01"
+  },
+  {
+    "courseName": "ریاضی فیزیک ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "قلی پور رضا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "دوشنبه-OddW-4"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "سه‌شنبه-EveryW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ١",
+        "id": "چهارشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2022088_01"
+  },
+  {
+    "courseName": "بلور شناسی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "سهرابی ثانی شاهدخت",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "سه‌شنبه-OddW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2022096_01"
+  },
+  {
+    "courseName": "مکانیک تحلیلی ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "منصوری کیومرث",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۴",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ١",
+        "id": "یکشنبه-EveryW-4"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس ٣",
+        "id": "دوشنبه-OddW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2022101_01"
+  },
+  {
+    "courseName": "اپتیک",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ناصری طیبه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "دوشنبه-OddW-1"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠۶",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "دوشنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022115_01"
+  },
+  {
+    "courseName": "پروژه",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اساتید گروه آموزشی",
+    "sessions": [],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022117_01"
+  },
+  {
+    "courseName": "مکانیک کوانتومی ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "منصوری کیومرث",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ٣",
+        "id": "دوشنبه-OddW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٣",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ١",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022135_01"
+  },
+  {
+    "courseName": "فیزیک هسته ای و ذرات بنیادی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اوسطی توفیق",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس ٣",
+        "id": "دوشنبه-OddW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ٣",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2022149_01"
+  },
+  {
+    "courseName": "آزمایشگاه اپتیک",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "ناصری طیبه",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه اپتیک",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022156_01"
+  },
+  {
+    "courseName": "آزمایشگاه اپتیک",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "دانش فر نادر",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه اپتیک",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022156_02"
+  },
+  {
+    "courseName": "ترمودینامیک و مکانیک آماری١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "قلی پور رضا",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٣",
+        "id": "دوشنبه-OddW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "شنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "دوشنبه-EvenW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022182_01"
+  },
+  {
+    "courseName": "ترمودینامیک و مکانیک آماری٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "منصوری کیومرث",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "سه‌شنبه-OddW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "سه‌شنبه-EvenW-3"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ١",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022183_01"
+  },
+  {
+    "courseName": "هواشناسی عمومی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "نیستانی ابوالفضل",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس ١",
+        "id": "دوشنبه-EvenW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠۶",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2022224_01"
+  },
+  {
+    "courseName": "مبانی گرانی سنجی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "قنبری سجاد اساتید گروه آموزشی",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022277_01"
+  },
+  {
+    "courseName": "لرزه شناسی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "قنبری سجاد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/07/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022353_01"
+  },
+  {
+    "courseName": "مگنتو تلوریک",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "قنبری سجاد",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022355_01"
+  },
+  {
+    "courseName": "فیزیک لیزر پیشرفته ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "دانش فر نادر",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "دوشنبه-OddW-4"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "دوشنبه-EvenW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022377_01"
+  },
+  {
+    "courseName": "فیزیک لیزر پیشرفته ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "ناصری طیبه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "دوشنبه-OddW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022377_02"
+  },
+  {
+    "courseName": "آزمایشگاه اپتیک و لیرز",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "دانش فر نادر",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه اپتیک",
+        "id": "شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022378_01"
+  },
+  {
+    "courseName": "آزمایشگاه اپتیک و لیرز",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "دانش فر نادر",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه اپتیک",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022378_02"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیک هسته ای",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "نادری داریوش",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه فیزیک پایه۴",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022383_01"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیک هسته ای",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "نادری داریوش",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه فیزیک پایه۴",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022383_02"
+  },
+  {
+    "courseName": "الکترودینامیک پیشرفته ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "چگل رعد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠۶",
+        "id": "یکشنبه-EvenW-2"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "دوشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022392_01"
+  },
+  {
+    "courseName": "الکترودینامیک پیشرفته ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "چگل رعد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠۶",
+        "id": "یکشنبه-OddW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٣",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022392_02"
+  },
+  {
+    "courseName": "مکانیک کوانتمی پیشرفته٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "موسوی سیدحمزه",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "دوشنبه-OddW-1"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠۵",
+        "id": "شنبه-EveryW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "دوشنبه-EvenW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022412_01"
+  },
+  {
+    "courseName": "مکانیک آماری پیشرفته ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "بهاری کرم",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "دوشنبه-OddW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ١",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "دوشنبه-EvenW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022413_01"
+  },
+  {
+    "courseName": "مکانیک آماری پیشرفته ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "منصوری کیومرث",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "شنبه-OddW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ١",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022413_02"
+  },
+  {
+    "courseName": "فیزیک محاسباتی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "رضانیا حامد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠۵",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022415_01"
+  },
+  {
+    "courseName": "فیزیک محاسباتی",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "دانش فر نادر",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "سایت ١ دانشجویان تحصیلات تکمیلی",
+        "id": "سه‌شنبه-OddW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "آمفی تئاتر گروه فیزیک",
+        "id": "سه‌شنبه-EvenW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022415_02"
+  },
+  {
+    "courseName": "فیزیک حالت جامد پیشرفته ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "رضانیا حامد",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "یکشنبه-EvenW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022417_01"
+  },
+  {
+    "courseName": "فیزیک ماده چگال ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "مرادیان رستم",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "یکشنبه-OddW-1"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022479_01"
+  },
+  {
+    "courseName": "ساختارهسته",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "رضایی بیتا",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 1,
+        "classLocation": "کلاس ٢",
+        "id": "سه‌شنبه-OddW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠۵",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/20",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022493_01"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیک حالت جامد١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "سهرابی ثانی شاهدخت",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه حالت جامد١",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022511_01"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیک حالت جامد١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "موسوی سیدحمزه",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2022511_02"
+  },
+  {
+    "courseName": "موضوعات ویژه ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "چگل رعد ناصری طیبه",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "شنبه-OddW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "شنبه-EvenW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022550_01"
+  },
+  {
+    "courseName": "موضوعات ویژه ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اوسطی توفیق راستی ویس محمد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "آمفی تئاتر گروه فیزیک",
+        "id": "شنبه-OddW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "آمفی تئاتر گروه فیزیک",
+        "id": "شنبه-EvenW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آمفی تئاتر گروه فیزیک",
+        "id": "شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/11/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022550_02"
+  },
+  {
+    "courseName": "مکانیک شاره ها",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "بهاری کرم",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس ٣",
+        "id": "دوشنبه-EvenW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٣",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2022558_01"
+  },
+  {
+    "courseName": "کیهانشناسی ١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "بهاری کرم",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "دوشنبه-OddW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠١",
+        "id": "یکشنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022611_01"
+  },
+  {
+    "courseName": "موضوعات ویژه ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "موسوی سیدحمزه",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "یکشنبه-OddW-2"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022623_01"
+  },
+  {
+    "courseName": "نظریه میدان غیر اختلالی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "برون غلامرضا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "یکشنبه-OddW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠۵",
+        "id": "شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/23",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022632_01"
+  },
+  {
+    "courseName": "نظریه میدان غیر اختلالی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "راستی ویس محمد",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس ٣",
+        "id": "چهارشنبه-OddW-4"
+      },
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس ١",
+        "id": "چهارشنبه-EveryW-3"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس ٣",
+        "id": "سه‌شنبه-EvenW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022632_02"
+  },
+  {
+    "courseName": "نانو ساختار ها- ویژگی ها وکاربرد ها",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "قلی پور رضا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠۵",
+        "id": "یکشنبه-EvenW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ٢٠۵",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022685_01"
+  },
+  {
+    "courseName": "کرمودینامیک کوانتومی ٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "برون غلامرضا",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "کلاس ٣",
+        "id": "یکشنبه-EvenW-3"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠۵",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022702_01"
+  },
+  {
+    "courseName": "واکنش ها و پراکندگی در فیزیک هسته ای",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "نادری داریوش",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠۵",
+        "id": "دوشنبه-OddW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠۵",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022712_01"
+  },
+  {
+    "courseName": "سمینار و روش تحقیق",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "مرادیان رستم",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آمفی تئاتر گروه فیزیک",
+        "id": "دوشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022785_01"
+  },
+  {
+    "courseName": "سمینار و روش تحقیق",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "دانش فر نادر",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "یکشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022785_02"
+  },
+  {
+    "courseName": "سمینار و روش تحقیق",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "نادری داریوش",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "یکشنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022785_03"
+  },
+  {
+    "courseName": "سمینار و روش تحقیق",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اوسطی توفیق",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آمفی تئاتر گروه فیزیک",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022785_04"
+  },
+  {
+    "courseName": "دینامیک جو",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "صحرائی جلیل",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EvenW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه هواشناسی(کلاس)",
+        "id": "سه‌شنبه-EvenW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه هواشناسی(کلاس)",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022795_01"
+  },
+  {
+    "courseName": "هواشناسی همدیدی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "صحرائی جلیل بهرامی باباعلی مژگان",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه هواشناسی(کلاس)",
+        "id": "سه‌شنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022796_01"
+  },
+  {
+    "courseName": "مدلسازی عدی جو و اقیانوس(٢)",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "نیستانی ابوالفضل",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "آزمایشگاه هواشناسی(کلاس)",
+        "id": "چهارشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "آزمایشگاه هواشناسی(کلاس)",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/10/04",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022800_01"
+  },
+  {
+    "courseName": "هواشناسی خرد مقیاس",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "صحرائی جلیل",
+    "sessions": [
+      {
+        "day": "سه‌شنبه",
+        "period": "OddW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه هواشناسی(کلاس)",
+        "id": "سه‌شنبه-OddW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه هواشناسی(کلاس)",
+        "id": "دوشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "09:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022816_01"
+  },
+  {
+    "courseName": "زلزله شناسی عمومی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اسماعیلی شمس الدین",
+    "sessions": [
+      {
+        "day": "دوشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "دوشنبه-EvenW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠٣",
+        "id": "سه‌شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2022836_01"
+  },
+  {
+    "courseName": "مهارت تخصصی ١ -فیزیک (آشنایی با نرم افزارهای تخصصی)",
+    "unit": 0,
+    "courseType": "",
+    "professorName": "نیستانی ابوالفضل",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2022838_01"
+  },
+  {
+    "courseName": "مهارت تخصصی ١ -فیزیک (آشنایی با نرم افزارهای تخصصی)",
+    "unit": 0,
+    "courseType": "",
+    "professorName": "نیستانی ابوالفضل",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "سایت ٢ دانشجویان تحصیلات تکمیلی",
+        "id": "چهارشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "13:30 تا 15:30",
+      "examLocation": ""
+    },
+    "id": "2022838_02"
+  },
+  {
+    "courseName": "تاریخ فلسفه علم فیزیک",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "راستی ویس محمد",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 4,
+        "classLocation": "کلاس ٣",
+        "id": "چهارشنبه-EvenW-4"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ٣",
+        "id": "یکشنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/09/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022859_01"
+  },
+  {
+    "courseName": "فیزیک پایه ۴",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "برون غلامرضا",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "OddW",
+        "classTime": 2,
+        "classLocation": "کلاس ٣",
+        "id": "چهارشنبه-OddW-2"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "یکشنبه-EveryW-2"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 2,
+        "classLocation": "کلاس ٣",
+        "id": "سه‌شنبه-EveryW-2"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/06/04",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2022864_01"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیک پایه ۴",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اوسطی توفیق نادری داریوش",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "آزمایشگاه فیزیک پایه۴",
+        "id": "شنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "10:00 تا 12:00",
+      "examLocation": ""
+    },
+    "id": "2022868_01"
+  },
+  {
+    "courseName": "آزمایشگاه فیزیک پایه ۴",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اوسطی توفیق نادری داریوش",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "آزمایشگاه فیزیک پایه۴",
+        "id": "شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/24",
+      "examTime": "08:00 تا 10:00",
+      "examLocation": ""
+    },
+    "id": "2022868_02"
+  },
+  {
+    "courseName": "فیزیک پایه١",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "دهقانی کاظمی محسن",
+    "sessions": [
+      {
+        "day": "یکشنبه",
+        "period": "OddW",
+        "classTime": 4,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "یکشنبه-OddW-4"
+      },
+      {
+        "day": "شنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "شنبه-EveryW-3"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 3,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "دوشنبه-EveryW-3"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/21",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022869_01"
+  },
+  {
+    "courseName": "فیزیک پایه٢",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "رابعی اردشیر",
+    "sessions": [
+      {
+        "day": "چهارشنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠٧",
+        "id": "چهارشنبه-EvenW-1"
+      },
+      {
+        "day": "دوشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٣",
+        "id": "دوشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 4,
+        "classLocation": "کلاس ١",
+        "id": "سه‌شنبه-EveryW-4"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/04/22",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022870_01"
+  },
+  {
+    "courseName": "فیزیک پایه٣",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "چگل رعد",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس ١",
+        "id": "شنبه-EvenW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ٣",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس ١",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022871_01"
+  },
+  {
+    "courseName": "فیزیک پایه٣",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "منصوری کیومرث",
+    "sessions": [
+      {
+        "day": "شنبه",
+        "period": "EvenW",
+        "classTime": 1,
+        "classLocation": "کلاس ٣",
+        "id": "شنبه-EvenW-1"
+      },
+      {
+        "day": "یکشنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ١٠۶",
+        "id": "یکشنبه-EveryW-1"
+      },
+      {
+        "day": "سه‌شنبه",
+        "period": "EveryW",
+        "classTime": 1,
+        "classLocation": "کلاس شماره ٢٠۴",
+        "id": "سه‌شنبه-EveryW-1"
+      }
+    ],
+    "exam": {
+      "examDate": "1405/08/04",
+      "examTime": "10:30 تا 12:30",
+      "examLocation": ""
+    },
+    "id": "2022871_02"
+  },
+  {
+    "courseName": "سمینار١",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اساتید گروه آموزشی",
+    "sessions": [],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2024020_01"
+  },
+  {
+    "courseName": "سمینار",
+    "unit": 2,
+    "courseType": "",
+    "professorName": "اساتید گروه آموزشی",
+    "sessions": [],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2024036_01"
+  },
+  {
+    "courseName": "پروژه کارشناسی",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اساتید گروه آموزشی",
+    "sessions": [],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2024042_01"
+  },
+  {
+    "courseName": "پروژه کارشناسی",
+    "unit": 3,
+    "courseType": "",
+    "professorName": "اساتید گروه آموزشی",
+    "sessions": [],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2024043_01"
+  },
+  {
+    "courseName": "سمینار",
+    "unit": 4,
+    "courseType": "",
+    "professorName": "اساتید گروه آموزشی",
+    "sessions": [],
+    "exam": {
+      "examDate": "",
+      "examTime": "",
+      "examLocation": ""
+    },
+    "id": "2024060_01"
+  }
+]
