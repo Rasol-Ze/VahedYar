@@ -3,19 +3,19 @@
   "name": "واحدیار: برنامه مدیریت ترم",
   "icons": [
     {
-      "src": "/favicon192.png",
+      "src": "./favicon192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "/favicon512.png",
+      "src": "./favicon512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
     },
     {
-      "src": "/favicon512.png",
+      "src": "./favicon512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
@@ -23,14 +23,14 @@
   ],
   "screenshots": [
     {
-      "src": "/screenshot-mobile.png",
+      "src": "./screenshot-mobile.png",
       "sizes": "750x1334",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "نمای موبایل برنامه واحدیار"
     },
     {
-      "src": "/screenshot-desktop.png",
+      "src": "./screenshot-desktop.png",
       "sizes": "1280x800",
       "type": "image/png",
       "form_factor": "wide",
