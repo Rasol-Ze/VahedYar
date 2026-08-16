@@ -6,7 +6,7 @@ const CACHE_NAME = `vahedyar-v${APP_VERSION}`;
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
-  './manifest.json',
+  './manifest.webmannifest',
   './favicon192.png',
   './favicon512.png'
 ];
