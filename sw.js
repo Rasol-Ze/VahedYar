@@ -1,5 +1,5 @@
 const params = new URLSearchParams(location.search);
-const APP_VERSION = '1.0.7';
+const APP_VERSION = '1.0.8';
 
 const CACHE_NAME = `vahedyar-v${APP_VERSION}`;
 
