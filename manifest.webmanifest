@@ -37,7 +37,7 @@
       "label": "نمای دسکتاپ برنامه واحدیار"
     }
   ],
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "./VahedYar/",
+  "scope": "./VahedYar/",
   "display": "standalone"
 }
