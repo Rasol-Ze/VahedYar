@@ -1,4 +1,3 @@
-const params = new URLSearchParams(location.search);
 const APP_VERSION = '0.0.9';
 
 const CACHE_NAME = `vahedyar-v${APP_VERSION}`;
@@ -12,7 +11,9 @@ const ASSETS_TO_CACHE = [
 ];
 
 self.addEventListener('install', (event) => {
-  self.skipWaiting();
+  self.addEventListener('message', (event) => {
+    if (event.data?.type === 'SKIP_WAITING') self.skipWaiting();
+  });
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) => {
       return cache.addAll(ASSETS_TO_CACHE);
