@@ -1,4 +1,4 @@
-const APP_VERSION = '0.0.10';
+const APP_VERSION = '0.1.0';
 
 const CACHE_NAME = `vahedyar-v${APP_VERSION}`;
 
