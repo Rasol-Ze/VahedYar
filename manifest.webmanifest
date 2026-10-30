@@ -3,8 +3,9 @@
   "name": "واحدیار: برنامه مدیریت ترم",
   "theme_color": "#E5E7EB",
   "background_color": "#E5E7EB",
-  "start_url": "/VahedYar/",
-  "scope": "/VahedYar/",
+  "start_url": "./",
+  "scope": "./",
+  "id": "./",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
