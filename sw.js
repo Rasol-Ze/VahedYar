@@ -1,18 +1,21 @@
-const APP_VERSION = '0.1.5';
-
-const CACHE_NAME = `vahedyar-v${APP_VERSION}`;
+// __BUILD_ID__ در زمان build جایگزین می‌شود (vite.config.ts)
+const BUILD_ID = '__BUILD_ID__';
+const CACHE_NAME = `vahedyar-${BUILD_ID}`;
 
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.webmanifest',
   './favicon192.png',
-  './favicon512.png'
+  './favicon512.png',
 ];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS_TO_CACHE))
+    caches.open(CACHE_NAME).then((cache) =>
+      // cache: 'reload' یعنی کش HTTP مرورگر/CDN را دور بزن
+      cache.addAll(ASSETS_TO_CACHE.map((u) => new Request(u, { cache: 'reload' })))
+    )
   );
 });
 
@@ -22,46 +25,48 @@ self.addEventListener('message', (event) => {
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((cacheNames) => {
-      return Promise.all(
-        cacheNames.map((cache) => {
-          if (cache !== CACHE_NAME) {
-            return caches.delete(cache);
-          }
-        })
-      );
-    }).then(() => self.clients.claim())
+    caches
+      .keys()
+      .then((names) =>
+        Promise.all(names.filter((n) => n !== CACHE_NAME).map((n) => caches.delete(n)))
+      )
+      .then(() => self.clients.claim())
   );
 });
 
 self.addEventListener('fetch', (event) => {
-  if (event.request.method !== 'GET') return;
+  const req = event.request;
+  if (req.method !== 'GET') return;
 
+  const url = new URL(req.url);
+  if (url.origin !== self.location.origin) return; // API و Cloudinary را دست نزن
+
+  // صفحه‌ها (index.html): اول شبکه، اگر آفلاین بود کش
+  if (req.mode === 'navigate') {
+    event.respondWith(
+      fetch(req)
+        .then((res) => {
+          if (res.ok) {
+            const copy = res.clone();
+            caches.open(CACHE_NAME).then((c) => c.put('./index.html', copy));
+          }
+          return res;
+        })
+        .catch(() => caches.match('./index.html'))
+    );
+    return;
+  }
+
+  // فایل‌های ثابت (JS/CSS/تصویر): اول کش
   event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      if (cachedResponse) {
-        return cachedResponse;
-      }
-
-      return fetch(event.request).then((networkResponse) => {
-        if (
-          !networkResponse || 
-          networkResponse.status !== 200 || 
-          networkResponse.type !== 'basic'
-        ) {
-          return networkResponse;
+    caches.match(req).then((cached) => {
+      if (cached) return cached;
+      return fetch(req).then((res) => {
+        if (res && res.status === 200 && res.type === 'basic') {
+          const copy = res.clone();
+          caches.open(CACHE_NAME).then((c) => c.put(req, copy));
         }
-
-        const responseToCache = networkResponse.clone();
-        caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, responseToCache);
-        });
-
-        return networkResponse;
-      }).catch(() => {
-        if (event.request.mode === 'navigate') {
-          return caches.match('/index.html');
-        }
+        return res;
       });
     })
   );
