@@ -1,4 +1,3 @@
-// __BUILD_ID__ در زمان build جایگزین می‌شود (vite.config.ts)
 const BUILD_ID = 'beta-0.1.5';
 const CACHE_NAME = `vahedyar-${BUILD_ID}`;
 
@@ -13,7 +12,6 @@ const ASSETS_TO_CACHE = [
 self.addEventListener('install', (event) => {
   event.waitUntil(
     caches.open(CACHE_NAME).then((cache) =>
-      // cache: 'reload' یعنی کش HTTP مرورگر/CDN را دور بزن
       cache.addAll(ASSETS_TO_CACHE.map((u) => new Request(u, { cache: 'reload' })))
     )
   );
@@ -39,9 +37,8 @@ self.addEventListener('fetch', (event) => {
   if (req.method !== 'GET') return;
 
   const url = new URL(req.url);
-  if (url.origin !== self.location.origin) return; // API و Cloudinary را دست نزن
+  if (url.origin !== self.location.origin) return; 
 
-  // صفحه‌ها (index.html): اول شبکه، اگر آفلاین بود کش
   if (req.mode === 'navigate') {
     event.respondWith(
       fetch(req)
@@ -57,7 +54,6 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // فایل‌های ثابت (JS/CSS/تصویر): اول کش
   event.respondWith(
     caches.match(req).then((cached) => {
       if (cached) return cached;
