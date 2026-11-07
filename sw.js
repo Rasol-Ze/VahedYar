@@ -1,5 +1,5 @@
 // __BUILD_ID__ در زمان build جایگزین می‌شود (vite.config.ts)
-const BUILD_ID = '__BUILD_ID__';
+const BUILD_ID = 'beta-0.1.5';
 const CACHE_NAME = `vahedyar-${BUILD_ID}`;
 
 const ASSETS_TO_CACHE = [
