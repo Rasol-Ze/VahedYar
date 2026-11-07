@@ -57,8 +57,8 @@ self.addEventListener('fetch', (event) => {
   event.respondWith(
     caches.match(req).then((cached) => {
       if (cached) return cached;
-      return fetch(req).then((res) => {
-        if (res && res.status === 200 && res.type === 'basic') {
+      return fetch(req, { cache: 'reload' }).then((res) => {
+          if (res && res.status === 200 && res.type === 'basic') {
           const copy = res.clone();
           caches.open(CACHE_NAME).then((c) => c.put(req, copy));
         }
