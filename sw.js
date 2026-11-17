@@ -1,4 +1,4 @@
-const BUILD_ID = 'beta-0.1.9';
+const BUILD_ID = 'beta-0.1.8';
 const CACHE_NAME = `vahedyar-${BUILD_ID}`;
 
 const ASSETS_TO_CACHE = [
