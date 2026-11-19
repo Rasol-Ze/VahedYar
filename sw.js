@@ -67,3 +67,39 @@ self.addEventListener('fetch', (event) => {
     })
   );
 });
+
+self.addEventListener('push', (event) => {
+  let data = {};
+  try { data = event.data ? event.data.json() : {}; } catch { data = { body: event.data && event.data.text() }; }
+
+  event.waitUntil((async () => {
+    await self.registration.showNotification(data.title || 'واحدیار', {
+      body: data.body || '',
+      icon: '/icon-192.png',
+      badge: '/icon-192.png',
+      dir: 'rtl',
+      lang: 'fa',
+      data: { url: data.url || '/' },
+    });
+    // اگر اپ باز است، شمارنده‌ی زنگوله به‌روز شود
+    const list = await clients.matchAll({ type: 'window', includeUncontrolled: true });
+    list.forEach((c) => c.postMessage({ type: 'push-received' }));
+  })());
+});
+
+self.addEventListener('notificationclick', (event) => {
+  event.notification.close();
+  const path = (event.notification.data && event.notification.data.url) || '/';
+  const target = new URL('/#' + path, self.location.origin).href; // HashRouter
+
+  event.waitUntil((async () => {
+    const list = await clients.matchAll({ type: 'window', includeUncontrolled: true });
+    if (list.length) {
+      const c = list[0];
+      await c.focus();
+      try { await c.navigate(target); } catch {}
+      return;
+    }
+    await clients.openWindow(target);
+  })());
+});
