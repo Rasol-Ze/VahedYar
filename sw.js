@@ -75,8 +75,8 @@ self.addEventListener('push', (event) => {
   event.waitUntil((async () => {
     await self.registration.showNotification(data.title || 'واحدیار', {
       body: data.body || '',
-      icon: '/icon-192.png',
-      badge: '/icon-192.png',
+      icon: './favicon192.png',
+      badge: './favicon192.png',
       dir: 'rtl',
       lang: 'fa',
       data: { url: data.url || '/' },
